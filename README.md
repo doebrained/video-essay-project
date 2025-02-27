@@ -1,2 +1,8 @@
-# video-essay-project
- CMPINF 0610 - Composing Digital Media: Project 2
+# CMPINF 0610 - Spring 2025
+## Author: Juniper Ferlan
+
+### Summary
+blahblahblahblah
+
+### Credits
+yaddayaddayadda
