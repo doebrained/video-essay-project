@@ -1,9 +1,8 @@
-## Video Essay Project: Red Pandas
-### Author: Juniper Ferlan
-#### CMPINF 0610 - Spring 2025
+### CMPINF 0610 - Spring 2025
+#### Author: Juniper Ferlan
 
-### Summary
+#### Summary
 blahblahblahblah
 
-### Credits
+#### Credits
 yaddayaddayadda
