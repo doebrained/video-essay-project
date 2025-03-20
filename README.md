@@ -1,7 +1,7 @@
 ### CMPINF 0610 - Spring 2025
 #### Author: Juniper Ferlan
 
-**Final Draft link: https://youtu.be/Qk1bzGUk6Ic**
+**Final Draft link: https://youtu.be/Qk1bzGUk6Ic**\
 *Rough draft link: https://youtu.be/qZao8r09ycs*
 
 #### Summary
